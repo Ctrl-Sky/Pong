@@ -1,2 +1,2 @@
 # Pong
-A program that replicates Pong. Programmed on pygame.
+My first coding project created on pygame to replicate the game Pong
